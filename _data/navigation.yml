@@ -6,5 +6,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "CV_en"
+    url: https://AdijeShen.github.io/files/cv_en.pdf
+
+  - title: "CV_cn"
+    url: https://AdijeShen.github.io/files/cv_cn.pdf
