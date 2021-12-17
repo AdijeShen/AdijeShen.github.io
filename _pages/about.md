@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a undergraduate cryptographic engineering from @ECNU, currently work in for MatrixElements. Want to become an expert in FHE.
-
+I'm a undergraduate cryptographic student from @ECNU, currently work as cryptographic engineer for MatrixElements. Want to become an expert in FHE.
