@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a undergraduate cryptographic student from @ECNU, currently work as cryptographic engineer for MatrixElements. Want to become an expert in FHE.
+I'm a graduate cryptographic student from East China Normal University Trusted Digital Technology Lab, currently work as cryptographic engineer at China Telecom. Want to become an expert in FHE/MPC.
